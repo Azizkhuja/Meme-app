@@ -1,6 +1,6 @@
 This project was bootstrapped with react.js and [Demo is here](https://memeapp.surge.sh/).
 
-## Main focus for react.js and and from changes. The design is not unresponsive
+## Main focus for react.js. The design is not unresponsive
 
 ## Available Scripts
 
