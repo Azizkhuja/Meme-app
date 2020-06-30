@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with react.js and [Demo is here](https://memeapp.surge.sh/).
 
 ## Available Scripts
 
